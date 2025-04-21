@@ -1,8 +1,8 @@
-// Name: TurboWarp Image Processor
+// Name: 简易图像处理器TurboWarp Image Processor
 // ID: imageProcessor
-// Description: Advanced image processing tools for TurboWarp.
+// Description: 包含基础功能，懒人必备Advanced image processing tools for TurboWarp.
 // License: MIT
-// Author: Your Name (https://space.bilibili.com/3546673299065588)
+// Author: makabakaKUN (https://space.bilibili.com/3546673299065588)
 
 (function(Scratch) {
   'use strict';
