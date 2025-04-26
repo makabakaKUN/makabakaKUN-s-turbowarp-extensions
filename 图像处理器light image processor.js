@@ -30,7 +30,7 @@
     getInfo() {
       return {
         id: 'imageProcessor',
-        name: 'Image Processor',
+        name: '图像处理器',
         color1: '#0d98ba',
         color2: '#0a7e8c',
         color3: '#065f73',
