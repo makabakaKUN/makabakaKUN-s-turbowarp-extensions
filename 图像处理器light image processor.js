@@ -37,13 +37,13 @@
         blocks: [
           {
             opcode: 'openTutorial',
-            blockType: Scratch.BlockType.BUTTON,
+            blockType: Scratch.BlockType.COMMAND,
             text: '关注作者和教程'
           },
           "---",
           {
             opcode: 'loadImageFromUrl',
-            blockType: Scratch.BlockType.REPORTER,
+            blockType: Scratch.BlockType.COMMAND,
             text: '从网址 [URL] 加载图片',
             arguments: {
               URL: {
@@ -59,7 +59,7 @@
           },
           {
             opcode: 'createImage',
-            blockType: Scratch.BlockType.REPORTER,
+            blockType: Scratch.BlockType.COMMAND,
             text: '创建图片 颜色 [COLOR] 透明度 [ALPHA] 宽度 [WIDTH] 高度 [HEIGHT]',
             arguments: {
               COLOR: {
